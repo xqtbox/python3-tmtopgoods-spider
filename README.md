@@ -7,4 +7,4 @@
 3. 抓取过程中的常见问题—cookie的处理,cookie模拟登录
 4. 分页
 
-博客地址：
+博客地址：http://blog.csdn.net/u012052268/article/details/72553000
